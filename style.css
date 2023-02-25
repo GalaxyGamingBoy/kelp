@@ -115,6 +115,11 @@
     color: #121217;
 }
 
+#review {
+    background-color: #06cece;
+    color: #121217;
+}
+
 #investors {
     background-color: #5bc0de;
     color: #121217;
@@ -124,8 +129,6 @@
     background-color: #7289da;
     color: #121217;
 }
-
-
 
 body {
     font-family: "Phantom Sans", system-ui, -apple-system, BlinkMacSystemFont,
