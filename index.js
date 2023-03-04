@@ -3,6 +3,11 @@ const reviews = [
         "title": "1st Review by ZeroQL",
         "text": "Congratulations on being the first business to open in hc land. ",
         "stars": [5, 4, 4]
+    },
+    {
+        "title": "Review by Doruk",
+        "text": "10/10 kelps 10/10 experience.",
+        "stars": [5, 5, 4]
     }
 ];
 
